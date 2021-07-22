@@ -1,5 +1,5 @@
-USERNAME = 'v.wstryc@gmail.com'
-PASSWORD = 'Virtual11!'
+USERNAME = 'your email'
+PASSWORD = 'your password'
 
-SENDER ='Wirtualny Asystent <v.wstryc@gmail.com>'
-RECEIVER = 'Wojtek <strycharczyk34@gmail.com>'
+SENDER ='Sender credentials <sender@email.com>'
+RECEIVER = 'Receiver Credentials <receiver@email.com>'
